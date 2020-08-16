@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="208297119_313294167:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/208297119_313294167_jar</output-path>
+    <root id="archive" name="208297119_313294167.jar">
+      <element id="module-output" name="208297119_313294167" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/resources/ATPProjectJAR.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
